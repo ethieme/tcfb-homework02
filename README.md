@@ -1,3 +1,6 @@
+
+link to githib repo with HW (note it's in the master fork, I couldn't figure out how to get it to main): https://github.com/ethieme/tcfb-homework02.git
+
 # Homework 2: Unix shell
 
 This homework will assess your ability to run commands in the shell and make a simple script.
